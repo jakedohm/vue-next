@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "name": "vue-next",
   "private": false,
   "workspaces": [
     "packages/*"
